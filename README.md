@@ -1,16 +1,7 @@
 # eu_sou_rico
 
-Meu Primeiro Projeto Flutter.
+## Meu Primeiro Projeto Flutter.
 
-## Getting Started
+### Meu primeiro app em Flutter & Dart que apenas mostra a imagem de um Rubi.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[App inspirado nesse caso](https://g1.globo.com/Noticias/Tecnologia/0,,MUL714033-6174,00-PROGRAMA+SOU+RICO+PARA+IPHONE+CUSTA+US+E+NAO+FAZ+NADA.html)
